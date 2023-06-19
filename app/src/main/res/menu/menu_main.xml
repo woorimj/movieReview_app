@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/movie_add"
+        android:title="영화추가" />
+    <item
+        android:id="@+id/info"
+        android:title="개발자소개" />
+    <item
+        android:id="@+id/cancle"
+        android:title="앱종료" />
+</menu>
